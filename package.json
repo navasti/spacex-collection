@@ -1,0 +1,12 @@
+{
+  "name": "spacex-project",
+  "version": "1.0.0",
+  "description": "App that lists SpaceX launch missions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "author": "",
+  "license": "MIT"
+}
