@@ -1,5 +1,5 @@
 {
-  "name": "spacex-project",
+  "name": "spacex-collection",
   "version": "1.0.0",
   "description": "App that lists SpaceX launch missions",
   "main": "index.js",
